@@ -8,8 +8,6 @@ public class testtest {
 
 
             System.out.println("ALGO.............................");
-            
-            System.out.println("ALGO2.............................");
 
         }catch (Exception ex){
             ex.printStackTrace(System.out);
