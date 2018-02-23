@@ -7,7 +7,7 @@ public class testtest {
             //PRUEBA DE REGRESO............
 
 
-            System.out.println("ALGO..............................");
+            System.out.println("ALGO.............................");
 
         }catch (Exception ex){
             ex.printStackTrace(System.out);
