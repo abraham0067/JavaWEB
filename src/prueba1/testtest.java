@@ -4,6 +4,6 @@ public class testtest {
     public static void main(String[] args) {
         try {
             System.out.println("args = " + args);
-        }catch (Exception ex){}
+        }catch (Exception ex){ex.printStackTrace(System.out);}
     }
 }
